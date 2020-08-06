@@ -1,0 +1,10 @@
+C:\work\projects\PcaBatchService\src\main\java\com\batch\tasklet\LinesReader.java
+C:\work\projects\PcaBatchService\src\main\java\com\batch\config\JpaConfig.java
+C:\work\projects\PcaBatchService\src\main\java\com\batch\app\BatchIntegrationApplication.java
+C:\work\projects\PcaBatchService\src\main\java\com\batch\config\JobLaunchRequestTransformer.java
+C:\work\projects\PcaBatchService\src\main\java\com\batch\tasklet\LinesProcessorDB.java
+C:\work\projects\PcaBatchService\src\main\java\com\batch\db\Record.java
+C:\work\projects\PcaBatchService\src\main\java\com\batch\tasklet\FileUtils.java
+C:\work\projects\PcaBatchService\src\main\java\com\batch\config\IntegrationFlowsConfig.java
+C:\work\projects\PcaBatchService\src\main\java\com\batch\config\BatchJobConfig.java
+C:\work\projects\PcaBatchService\src\main\java\com\batch\db\RecordRepository.java

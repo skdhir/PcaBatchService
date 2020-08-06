@@ -1,0 +1,14 @@
+com\batch\tasklet\LinesProcessorDB.class
+com\batch\config\IntegrationFlowsConfig$2.class
+com\batch\config\IntegrationFlowsConfig$1.class
+com\batch\config\JobLaunchRequestTransformer.class
+com\batch\config\IntegrationFlowsConfig.class
+com\batch\db\Record.class
+com\batch\tasklet\LinesReader.class
+com\batch\app\BatchIntegrationApplication.class
+com\batch\db\RecordRepository.class
+com\batch\config\BatchJobConfig.class
+com\batch\config\JpaConfig.class
+com\batch\config\IntegrationFlowsConfig$3.class
+com\batch\config\IntegrationFlowsConfig$4.class
+com\batch\tasklet\FileUtils.class
